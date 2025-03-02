@@ -2,7 +2,7 @@
   "name": "cleaning-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://www.leracleaning.com.tr",
+  "homepage": "https://www.leracleaning.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -16,7 +16,7 @@
     "react-scripts": "5.0.1",
     "react-slick": "^0.30.2",
     "slick-carousel": "^1.8.1",
-    "web-vitals": "^2.m1.4"
+    "web-vitals": "^4.2.4"
   },
   "scripts": {
     "dev": "react-scripts start",
